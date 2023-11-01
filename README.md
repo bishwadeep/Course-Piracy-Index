@@ -121,7 +121,6 @@
 * [MoocLab](https://www.mooclab.club/)
 * [Edukatico](https://www.edukatico.org/en)
 * [OfCourseMe](https://courses.ofcourse.me/)
-* [CourseFinder](https://www.coursefinder.com.au/)
 * [SCOS](https://online.edu.ru/)
 * [Hackr.io](https://hackr.io/)
 * [MadBright](https://madbright.com/)
